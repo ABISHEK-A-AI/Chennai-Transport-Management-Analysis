@@ -83,3 +83,17 @@ Power BI was used to:
 ## Conclusion
 
 This project demonstrates how SQL and Power BI can be used to analyze transportation data and develop an interactive dashboard for operational monitoring and planning.
+
+## Dashboard Screenshots
+
+### Overview
+![Overview](Overview.png)
+
+### Route Performance
+![Route Performance](Route Performance.png)
+
+### Passenger Demand
+![Passenger Demand](Passenger Demand.png)
+
+### Capacity & Operations
+![Capacity & Operations](Capacity & Operations.png)
