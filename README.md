@@ -97,3 +97,16 @@ This project demonstrates how SQL and Power BI can be used to analyze transporta
 
 ### Capacity & Operations
 ![Capacity & Operations](Capacity&Operations.png)
+
+## Project Structure
+
+```text
+Chennai-Transport-Management-Analysis/
+│
+├── README.md
+├── chennai_transport_analysis.pbix
+├── CTA Sql query.sql
+├── Overview.png
+├── Route-Performance.png
+├── Passenger_Demand.png
+└── capacity&Operations.png
