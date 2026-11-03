@@ -90,10 +90,10 @@ This project demonstrates how SQL and Power BI can be used to analyze transporta
 ![Overview](Overview.png)
 
 ### Route Performance
-![Route Performance](Route Performance.png)
+![Route Performance](Route_Performance.png)
 
 ### Passenger Demand
-![Passenger Demand](Passenger Demand.png)
+![Passenger Demand](Passenger_Demand.png)
 
 ### Capacity & Operations
-![Capacity & Operations](Capacity & Operations.png)
+![Capacity & Operations](Capacity&Operations.png)
